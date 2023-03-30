@@ -5,3 +5,4 @@ function mirjeta()
         console.log("the number is" + i);
     }
 };
+console.log("modifica da pushare");
